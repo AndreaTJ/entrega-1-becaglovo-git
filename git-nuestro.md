@@ -1,19 +1,19 @@
-*Git* nuestro que estás en los repos
+*Git* our Father who art in repositories,
 
-Comprimidos sean tus *commits* 
+Hallowed be thy *commits*.
 
-Venga a nosotros tu *log*
+Thy *log* come,
 
-En el local como en el *remote*
+On the local as it is in the *remote*.
 
-Danos hoy nuestro *pull* de cada día 
+Give us this day our daily *pull*,
 
-Perdona nuestros *conflictos*
+And forgive us our *conflicts*,
 
-Como también perdonamos los de otros geeks 
+As we forgive those of other geeks.
 
-No nos dejes caer en *detached HEAD*
+Lead us not into *detached HEAD*,
 
-y líbranos de *SVN*
+And deliver us from *SVN*.
 
 `git commit --amend`
