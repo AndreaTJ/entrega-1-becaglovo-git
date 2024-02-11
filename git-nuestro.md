@@ -1,4 +1,4 @@
-*Git* our Father who art in repositories,
+*GIT* our Father who art in repositories,
 
 Hallowed be thy *commits*.
 
@@ -16,4 +16,4 @@ Lead us not into *detached HEAD*,
 
 And deliver us from *SVN*.
 
-`git commit --amend`
+`GIT commit --amend`
